@@ -56,21 +56,21 @@ $fp = fopen("./time_decode_xml", 'a');
                 if ( 'ID' == $kk ) {
                     $attr   = $vv->attributes();
 
-            echo "\tID \n";
-            echo "\t\t ID:\t\t". $attr['ID']. "\n";
-            echo "\t\t GID:\t\t". $attr['GID']. "\n";
-            echo "\t\t AID:\t\t". $attr['AID']. "\n";
-            echo "\t\t BKID:\t\t". $attr['BKID']. "\n";
-            echo "\t\t BKNAME:\t\t". $attr['BKNAME']. "\n";
-            echo "\t\t TM:\t\t". $attr['TM']. "\n";
-            echo "\t\t VM:\t\t". $attr['VM']. "\n";
-            echo "\t\t DL:\t\t". $attr['DL']. "\n";
-            echo "\t\t TP:\t\t". $attr['TP']. "\n";
-            echo "\t\t search:\t\t". $attr['search']. "\n";
-            echo "\t\t fid:\t\t". $attr['fid']. "\n";
-            echo "\t\t sid:\t\t". $attr['sid']. "\n";
-            echo "\t\t image:\t\t". $attr['image']. "\n";
-            echo "\t\t gens:\t\t". $attr['gens']. "\n";
+                    echo "\tID \n";
+                    echo "\t\t ID:\t\t". $attr['ID']. "\n";
+                    echo "\t\t GID:\t\t". $attr['GID']. "\n";
+                    echo "\t\t AID:\t\t". $attr['AID']. "\n";
+                    echo "\t\t BKID:\t\t". $attr['BKID']. "\n";
+                    echo "\t\t BKNAME:\t\t". $attr['BKNAME']. "\n";
+                    echo "\t\t TM:\t\t". $attr['TM']. "\n";
+                    echo "\t\t VM:\t\t". $attr['VM']. "\n";
+                    echo "\t\t DL:\t\t". $attr['DL']. "\n";
+                    echo "\t\t TP:\t\t". $attr['TP']. "\n";
+                    echo "\t\t search:\t\t". $attr['search']. "\n";
+                    echo "\t\t fid:\t\t". $attr['fid']. "\n";
+                    echo "\t\t sid:\t\t". $attr['sid']. "\n";
+                    echo "\t\t image:\t\t". $attr['image']. "\n";
+                    echo "\t\t gens:\t\t". $attr['gens']. "\n";
 
 
                 } else if ( 'Name' == $kk ) {

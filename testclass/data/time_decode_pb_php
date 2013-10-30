@@ -1,0 +1,77 @@
+PHP Fatal error:  Allowed memory size of 8388608 bytes exhausted (tried to allocate 32 bytes) in /home/lj/pps/pblist/pb4php/message/pb_message.php on line 80
+PHP Stack trace:
+PHP   1. {main}() /home/lj/pps/pblist/testclass/decode_pb.php:0
+PHP   2. PBMessage->ParseFromString() /home/lj/pps/pblist/testclass/decode_pb.php:26
+PHP   3. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:271
+PHP   4. PBMessage->ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:345
+PHP   5. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:286
+PHP   6. PBMessage->get_types() /home/lj/pps/pblist/pb4php/message/pb_message.php:307
+PHP Fatal error:  Allowed memory size of 8388608 bytes exhausted (tried to allocate 41 bytes) in /home/lj/pps/pblist/pb4php/message/pb_message.php on line 69
+PHP Stack trace:
+PHP   1. {main}() /home/lj/pps/pblist/testclass/decode_pb.php:0
+PHP   2. PBMessage->ParseFromString() /home/lj/pps/pblist/testclass/decode_pb.php:26
+PHP   3. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:271
+PHP   4. PBMessage->ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:345
+PHP   5. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:286
+PHP   6. PBMessage->__construct() /home/lj/pps/pblist/pb4php/message/pb_message.php:349
+PHP Fatal error:  Allowed memory size of 8388608 bytes exhausted (tried to allocate 9 bytes) in /home/lj/pps/pblist/pb4php/message/reader/pb_input_string_reader.php on line 48
+PHP Stack trace:
+PHP   1. {main}() /home/lj/pps/pblist/testclass/decode_pb.php:0
+PHP   2. PBMessage->ParseFromString() /home/lj/pps/pblist/testclass/decode_pb.php:26
+PHP   3. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:271
+PHP   4. PBMessage->ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:345
+PHP   5. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:286
+PHP   6. PBString->ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:354
+PHP   7. PBInputStringReader->next() /home/lj/pps/pblist/pb4php/message/type/pb_string.php:18
+PHP Fatal error:  Allowed memory size of 8388608 bytes exhausted (tried to allocate 20 bytes) in /home/lj/pps/pblist/pb4php/message/encoding/pb_base128.php on line 88
+PHP Stack trace:
+PHP   1. {main}() /home/lj/pps/pblist/testclass/decode_pb.php:0
+PHP   2. PBMessage->ParseFromString() /home/lj/pps/pblist/testclass/decode_pb.php:26
+PHP   3. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:271
+PHP   4. PBMessage->ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:345
+PHP   5. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:286
+PHP   6. PBString->ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:354
+PHP   7. PBInputStringReader->next() /home/lj/pps/pblist/pb4php/message/type/pb_string.php:18
+PHP   8. base128varint->get_value() /home/lj/pps/pblist/pb4php/message/reader/pb_input_string_reader.php:48
+PHP Fatal error:  Allowed memory size of 8388608 bytes exhausted (tried to allocate 48 bytes) in /home/lj/pps/pblist/pb4php/message/pb_message.php on line 349
+PHP Stack trace:
+PHP   1. {main}() /home/lj/pps/pblist/testclass/decode_pb.php:0
+PHP   2. PBMessage->ParseFromString() /home/lj/pps/pblist/testclass/decode_pb.php:26
+PHP   3. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:271
+PHP   4. PBMessage->ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:345
+PHP   5. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:286
+PHP Fatal error:  Allowed memory size of 8388608 bytes exhausted (tried to allocate 9 bytes) in /home/lj/pps/pblist/pb4php/message/reader/pb_input_string_reader.php on line 37
+PHP Stack trace:
+PHP   1. {main}() /home/lj/pps/pblist/testclass/decode_pb.php:0
+PHP   2. PBMessage->ParseFromString() /home/lj/pps/pblist/testclass/decode_pb.php:26
+PHP   3. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:271
+PHP   4. PBMessage->ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:345
+PHP   5. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:286
+PHP   6. PBMessage->ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:345
+PHP   7. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:286
+PHP   8. PBInt->ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:354
+PHP   9. PBInputStringReader->next() /home/lj/pps/pblist/pb4php/message/type/pb_int.php:17
+PHP  10. decbin() /home/lj/pps/pblist/pb4php/message/reader/pb_input_string_reader.php:37
+PHP Fatal error:  Allowed memory size of 8388608 bytes exhausted (tried to allocate 41 bytes) in /home/lj/pps/pblist/pb4php/message/pb_message.php on line 84
+PHP Stack trace:
+PHP   1. {main}() /home/lj/pps/pblist/testclass/decode_pb.php:0
+PHP   2. PBMessage->ParseFromString() /home/lj/pps/pblist/testclass/decode_pb.php:26
+PHP   3. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:271
+PHP   4. PBMessage->ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:345
+PHP   5. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:286
+PHP   6. PBMessage->get_types() /home/lj/pps/pblist/pb4php/message/pb_message.php:307
+PHP Fatal error:  Allowed memory size of 8388608 bytes exhausted (tried to allocate 32 bytes) in /home/lj/pps/pblist/pb4php/message/pb_message.php on line 349
+PHP Stack trace:
+PHP   1. {main}() /home/lj/pps/pblist/testclass/decode_pb.php:0
+PHP   2. PBMessage->ParseFromString() /home/lj/pps/pblist/testclass/decode_pb.php:26
+PHP   3. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:271
+PHP   4. PBMessage->ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:345
+PHP   5. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:286
+PHP Fatal error:  Allowed memory size of 8388608 bytes exhausted (tried to allocate 41 bytes) in /home/lj/pps/pblist/pb4php/message/pb_message.php on line 69
+PHP Stack trace:
+PHP   1. {main}() /home/lj/pps/pblist/testclass/decode_pb.php:0
+PHP   2. PBMessage->ParseFromString() /home/lj/pps/pblist/testclass/decode_pb.php:26
+PHP   3. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:271
+PHP   4. PBMessage->ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:345
+PHP   5. PBMessage->_ParseFromArray() /home/lj/pps/pblist/pb4php/message/pb_message.php:286
+PHP   6. PBMessage->__construct() /home/lj/pps/pblist/pb4php/message/pb_message.php:349

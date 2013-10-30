@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='GB18030'?>
+<Subs TM='1381317473'>
+<Sub bigtvg="/40466_40486.html" 
+				id="40486" 
+				name="明星评委" ord="letter" seq="asc" defaultopen="" playbreak="" op="sc='17';on='108'" TM="1374857456" BKID="203227248" search="首字母:C,K,L,N,T,W,X,数字;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="M"  tags="国语" enableSearch2="1" image="2013-04/203227248-321-2013-04-18-11-09-29.jpg" />
+<Sub bigtvg="/40466.html" 
+				id="40487" 
+				name="快男精彩预告" ord="time" seq="desc" defaultopen="" playbreak="" op="sc='72';on='396'" TM="1376665037" BKID="203227248" search="首字母:B,C,H,J,K,L,M,N,Q,S,T,V,W,X,Y,数字;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="K"  tags="DVD版,TV版" enableSearch2="1" image="2013-04/203227248-321-2013-04-18-11-09-29.jpg" />
+<Sub bigtvg="/40466_41167.html" 
+				id="41167" 
+				name="2013男声学院" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='7';on='133';vm='7.5'" TM="1373474049" BKID="203227248" search="首字母:数字;时长:60分钟-90分钟,90分钟-120分钟;"
+				 TP="g" col="0" pluson="0" letter="数字"  tags="高清,普通" isSeries="1" enableSearch2="1" image="2013-04/203227248-321-2013-04-18-11-09-29.jpg" fotm="3" />
+<Sub bigtvg="/40466_43306_188990.html" 
+				id="43306" 
+				name="2013突围赛" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='4';on='86';vm='7.6'" TM="1374256433" BKID="203234459" search="首字母:数字;时长:60分钟-90分钟;"
+				 TP="g" col="0" pluson="0" letter="数字"  tags="高清,普通" isSeries="1" enableSearch2="1" image="2013-07/203234459-321-2013-07-10-15-30-39.jpg" fotm="3" />
+<Sub bigtvg="/85_43315_189044.html" 
+				id="40867" 
+				name="2013快男现场秀" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='82';on='492'" TM="1380301139" BKID="203234461" search="首字母:数字;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="数字"  tags="国语DVD版,国语TV版,其他方言TV版" enableSearch2="1" image="2013-07/203234461-622-2013-07-10-16-16-21.jpg" />
+</Subs>

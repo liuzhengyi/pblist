@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='GB18030'?>
+<Subs TM='1382773958'>
+<Sub 
+				id="48967" 
+				name="饭没了秀" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='250';on='2163';vm='8.4'" TM="1381684777" BKID="202708473" search="首字母:数字;时长:30分钟-60分钟,60分钟-90分钟;"
+				 TP="g" col="0" pluson="0" letter="F"  tags="DVD版,TV版,高清DVD版,高清TV版" isSeries="1" enableSearch2="1" image="2012-07/202708473-321-2012-07-04-18-05-14.jpg" fotm="3" />
+<Sub 
+				id="48972" 
+				name="天哪，我们变小啦" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='12';on='129';vm='5.1'" TM="1346606966" BKID="203203911" search="首字母:T,数字;时长:30分钟以内,30分钟-60分钟;"
+				 TP="g" col="0" pluson="0" letter="T"  tags="国语" isSeries="1" enableSearch2="1" image="2012-07/203203911-321-2012-07-02-18-29-34.jpg" fotm="2" />
+<Sub 
+				id="48968" 
+				name="今晚我当家" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='59';on='357';vm='6.1'" TM="1382350771" BKID="203177235" search="首字母:数字;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="J"  tags="DVD版,TV版" isSeries="1" enableSearch2="1" image="2012-07/203177235-321-2012-07-11-11-14-13.jpg" fotm="2" />
+<Sub 
+				id="48966" 
+				name="爸爸我们去哪儿(韩国)" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='12';on='7442';vm='8.8'" TM="1382350773" BKID="203236455" search="首字母:数字;时长:60分钟-90分钟;"
+				 TP="g" col="0" pluson="0" letter="B"  tags="DVD版,TV版,高清DVD版,高清TV版" isSeries="1" enableSearch2="1" image="2013-07/203236455-321-2013-07-30-16-43-45.jpg" fotm="3" />
+<Sub 
+				id="48973" 
+				name="我不是明星" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='8';on='171';vm='9.1'" TM="1382410033" BKID="203236975" search="首字母:数字;时长:30分钟以内,30分钟-60分钟,60分钟-90分钟;"
+				 TP="g" col="0" pluson="0" letter="W"  tags="国语" isSeries="1" enableSearch2="1" image="2013-08/203236975-321-2013-08-05-18-32-50.jpg" fotm="2" />
+<Sub 
+				id="48970" 
+				name="宝贝看你的" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='7';on='178';vm='6'" TM="1382716680" BKID="203242610" search="首字母:数字;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="B"  tags="国语" isSeries="1" enableSearch2="1" image="2013-10/203242610-321-2013-10-11-17-37-00.jpg" fotm="2" />
+<Sub 
+				id="48964" 
+				name="爸爸去哪儿" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='3';on='230331';vm='9'" TM="1382733954" BKID="203241853" search="首字母:数字;时长:60分钟-90分钟;"
+				 TP="g" col="0" pluson="0" letter="B"  tags="DVD版,TV版,高清DVD版,高清TV版" isSeries="1" enableSearch2="1" image="2013-09/203241853-321-2013-09-29-14-01-28.jpg" fotm="3" />
+<Sub 
+				id="48969" 
+				name="老爸老妈看我的" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='2';on='286';vm='6.8'" TM="1382350772" BKID="203242714" search="首字母:数字;时长:60分钟-90分钟;"
+				 TP="g" col="0" pluson="0" letter="L"  tags="国语" isSeries="1" enableSearch2="1" image="2013-10/203242714-321-2013-10-12-15-53-15.jpg" fotm="2" />
+<Sub 
+				id="48971" 
+				name="好爸爸坏爸爸" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='3';on='257';vm='6'" TM="1382726734" BKID="203242930" search="首字母:数字;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="H"  tags="国语" isSeries="1" enableSearch2="1" image="2013-10/203242930-321-2013-10-15-17-29-07.jpg" fotm="2" />
+</Subs>

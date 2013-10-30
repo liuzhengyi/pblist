@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/30/trunk/example/nested_mess
+END
+nested.proto
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/example/nested_mess/nested.proto
+END
+nested.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/30/trunk/example/nested_mess/nested.php
+END
+protoc.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/27/trunk/example/nested_mess/protoc.php
+END
+pb_proto_nested.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/30/trunk/example/nested_mess/pb_proto_nested.php
+END
+nested.pb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/30/trunk/example/nested_mess/nested.pb
+END

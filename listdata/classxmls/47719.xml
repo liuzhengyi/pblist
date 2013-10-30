@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='GB18030'?>
+<Subs TM='1382773938'>
+<Sub 
+				id="47756" 
+				name="高考辅导视频专区" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='61';on='316';vm='7.5'" TM="1372928235" BKID="203207548" search="类型:教程;产地:中国大陆;首字母:L,S,W,Y,数字;时长:30分钟以内,30分钟-60分钟,60分钟-90分钟,90分钟-120分钟;"
+				 TP="g" col="0" pluson="0" letter="G"  tags="国语,其他方言" isSeries="1" enableSearch2="1" image="2012-07/203207548-1072-2012-07-30-17-40-38.jpg" fotm="2" />
+<Sub 
+				id="47830" 
+				name="在家run英文" ord="time" seq="desc" defaultopen="" playbreak="" op="sc='190';on='1378';vm='8.9'" TM="1371544605" BKID="203212887" search="类型:教程;产地:中国大陆;首字母:X;时长:30分钟以内,30分钟-60分钟,60分钟-90分钟,90分钟-120分钟;"
+				 TP="g" col="0" pluson="0" letter="Z"  tags="国语,国语高清,外语,粤语" enableSearch2="1" image="2012-10/203212887-1072-2012-10-15-11-09-51.jpg" />
+<Sub 
+				id="47837" 
+				name="精华教育视频" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='192';on='1035';vm='7.1'" TM="1367472689" BKID="203216429" search="类型:教程;产地:中国大陆;首字母:G,数字;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="J"  tags="国语" enableSearch2="1" image="2012-11/203216429-1072-2012-11-23-14-31-05.jpg" />
+<Sub 
+				id="47770" 
+				name="英语四级核心词汇脱口秀" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='19';on='188';vm='7.3'" TM="1370488141" BKID="203231343" search="类型:教程;产地:中国大陆;首字母:C;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="Y"  tags="高清,普通" isSeries="1" enableSearch2="1" image="2013-06/203231343-1072-2013-06-05-11-55-26.jpg" fotm="3" />
+<Sub 
+				id="47760" 
+				name="看电影学英语" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='29';on='286';vm='7.4'" TM="1382517260" BKID="203233072" search="类型:教程;产地:中国大陆;首字母:K;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="K"  tags="国语DVD版,国语TV版,国语高清DVD版,外语DVD版,外语高清DVD版" isSeries="1" enableSearch2="1" image="2013-06/203233072-1072-2013-06-24-17-19-31.jpg" fotm="3" />
+<Sub 
+				id="47769" 
+				name="英语六级核心词汇脱口秀" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='15';on='72';vm='7.1'" TM="1372342959" BKID="203233400" search="类型:教程;产地:中国大陆;首字母:C;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="Y"  tags="外语" isSeries="1" enableSearch2="1" image="2013-06/203233400-1072-2013-06-27-16-22-21.jpg" fotm="2" />
+<Sub 
+				id="47761" 
+				name="酷艾英语" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='49';on='254';vm='7.5'" TM="1382517260" BKID="203233382" search="类型:教程;产地:中国大陆;首字母:K;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="K"  tags="国语DVD版,国语TV版,外语DVD版,外语TV版,外语高清DVD版" isSeries="1" enableSearch2="1" image="2013-06/203233382-1072-2013-06-27-14-01-29.jpg" fotm="3" />
+<Sub 
+				id="48802" 
+				name="流行粤语快速入门" ord="letter" seq="asc" defaultopen="" playbreak="" op="sc='15';on='36';vm='8'" TM="1372761639" BKID="203232703" search="首字母:A;时长:120分钟以上;"
+				 TP="g" col="0" pluson="0" letter="L"  enableSearch2="1" image="2013-06/203232703-1072-2013-06-20-11-21-36.jpg" />
+<Sub 
+				id="47767" 
+				name="英语四六级考试解答技巧" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='24';on='121';vm='6'" TM="1373159090" BKID="203234051" search="类型:教程;产地:中国大陆;首字母:数字;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="Y"  tags="国语" isSeries="1" enableSearch2="1" image="2013-07/203234051-1072-2013-07-05-11-31-22.jpg" fotm="2" />
+<Sub 
+				id="47762" 
+				name="乐学口语" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='98';on='984';vm='6.7'" TM="1374638157" BKID="203234316" search="类型:教程;产地:中国大陆;首字母:L;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="L"  tags="高清,流畅,普通" isSeries="1" enableSearch2="1" image="2013-07/203234316-1072-2013-07-09-14-03-01.jpg" fotm="3" />
+<Sub 
+				id="47765" 
+				name="听力口语微课堂" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='45';on='444';vm='7.1'" TM="1374639495" BKID="203234822" search="类型:教程;产地:中国大陆;首字母:T;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="T"  tags="高清,普通" isSeries="1" enableSearch2="1" image="2013-07/203234822-1072-2013-07-16-11-18-58.jpg" fotm="3" />
+<Sub 
+				id="47839" 
+				name="法语学习课程" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='112';on='1260';vm='6.8'" TM="1375687160" BKID="203235701" search="类型:教程;产地:中国大陆;首字母:O;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="F"  tags="高清,普通" enableSearch2="1" image="2013-07/203235701-1072-2013-07-25-10-55-34.jpg" />
+<Sub 
+				id="47759" 
+				name="聚焦三人行" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='16';on='75';vm='6.4'" TM="1376450317" BKID="203237635" search="类型:教程,社会;产地:中国大陆;首字母:B,G,H,K,M,N,Q,S,W,X,Z;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="J"  tags="国语" isSeries="1" enableSearch2="1" image="2013-08/203237635-1072-2013-08-13-17-07-15.jpg" fotm="2" />
+<Sub 
+				id="47833" 
+				name="小语种课堂" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='55';on='532'" TM="1378281528" BKID="203237798" search="类型:教程;产地:中国大陆;首字母:H,R;时长:30分钟以内,30分钟-60分钟,60分钟-90分钟;"
+				 TP="g" col="0" pluson="0" letter="X"  tags="国语,外语,外语高清" enableSearch2="1" image="2013-08/203237798-1072-2013-08-15-13-39-28.jpg" />
+<Sub 
+				id="47766" 
+				name="五年级英语教学视频精选" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='68';on='389';vm='6.9'" TM="1377683824" BKID="203238793" search="类型:教程;产地:中国大陆;首字母:P;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="W"  tags="外语" isSeries="1" enableSearch2="1" image="2013-08/203238793-1072-2013-08-27-13-15-01.jpg" fotm="2" />
+<Sub 
+				id="47763" 
+				name="六年级英语教学视频精选" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='55';on='305';vm='6'" TM="1378102035" BKID="203238993" search="类型:教程;产地:中国大陆;首字母:P;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="L"  tags="外语" isSeries="1" enableSearch2="1" image="2013-08/203238993-1072-2013-08-29-09-51-44.jpg" fotm="2" />
+<Sub 
+				id="47875" 
+				name="最新资讯" ord="time" seq="desc" defaultopen="" playbreak="" op="sc='153';on='810';vm='6.5'" TM="1382697943" BKID="203239355" search="首字母:A,B,C,D,E,F,G,H,J,K,L,M,N,P,Q,R,S,T,W,X,Y,Z,数字;时长:30分钟以内;"
+				 TP="g" col="0" pluson="570" letter="Z"  tags="国语DVD版,国语TV版,外语TV版,粤语TV版" enableSearch2="1" image="2013-09/203239355-1072-2013-09-02-16-44-29.jpg" />
+<Sub 
+				id="48048" 
+				name="凯文的手稿" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='6';on='70';vm='6.5'" TM="1378197988" BKID="203239472" search="类型:教程;产地:中国大陆;首字母:K;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="K"  tags="高清,普通" enableSearch2="1" image="2013-09/203239472-1072-2013-09-03-14-04-58.jpg" />
+<Sub 
+				id="47845" 
+				name="教育精选(编辑推荐)" ord="time" seq="desc" defaultopen="" playbreak="" op="sc='73';on='432'" TM="1382697943" BKID="203233072" search="类型:教程;产地:中国大陆;首字母:A,C,D,F,G,J,K,S,X,Y,数字;时长:30分钟以内,30分钟-60分钟;"
+				 TP="g" col="0" pluson="949" letter="J"  tags="国语DVD版,国语TV版,国语高清DVD版,双语DVD版,双语高清DVD版,外语DVD版,外语TV版,外语高清DVD版,粤语DVD版" enableSearch2="1" image="2013-06/203233072-1072-2013-06-24-17-19-31.jpg" />
+<Sub 
+				id="48095" 
+				name="七嘴八舌话教育-智康1对1" ord="online" seq="" defaultopen="" playbreak="" op="sc='6';vm='8'" TM="1378980758" BKID="203232703" search="首字母:Q;时长:120分钟以上;"
+				 TP="g" col="0" pluson="9" letter="Q"  enableSearch2="1" image="2013-06/203232703-1072-2013-06-20-11-21-36.jpg" />
+<Sub 
+				id="48259" 
+				name="小明英语" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='22';on='222';vm='6.1'" TM="1380675457" BKID="203241464" search="类型:教程;首字母:X;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="X"  tags="高清,普通" enableSearch2="1" image="2013-09/203241464-1072-2013-09-24-18-11-07.jpg" />
+<Sub 
+				id="48324" 
+				name="超级课堂(中小学课程)" ord="letter" seq="asc" defaultopen="" playbreak="" op="sc='10';on='44';vm='6'" TM="1380426353" BKID="203241275" search="类型:教程;产地:中国大陆;首字母:C;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="C"  tags="国语" enableSearch2="1" image="2013-09/203241275-1072-2013-09-23-16-55-59.jpg" />
+<Sub 
+				id="48404" 
+				name="超级家长会(家庭教育脱口秀)" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='26';on='138';vm='6'" TM="1382510759" BKID="203241793" search="产地:中国大陆;首字母:数字;时长:30分钟以内,30分钟-60分钟;"
+				 TP="g" col="0" pluson="0" letter="C"  tags="国语" enableSearch2="1" image="2013-09/203241793-1072-2013-09-29-10-20-11.jpg" />
+<Sub 
+				id="48118" 
+				name="Bingo教你说美语" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='14';on='59';vm='6.6'" TM="1382671984" BKID="203240633" search="类型:教程;首字母:数字;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="B"  tags="双语DVD版,外语TV版" enableSearch2="1" image="2013-09/203240633-1072-2013-09-15-13-12-36.jpg" />
+<Sub 
+				id="48545" 
+				name="几分钟网语言学习" ord="letter" seq="desc" defaultopen="" playbreak="" op="sc='60';on='313';vm='6'" TM="1382428728" BKID="203208638" search="首字母:K,Y;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="J"  tags="国语,粤语" enableSearch2="1" image="2012-08/203208638-622-2012-08-13-18-19-39.jpg" />
+<Sub 
+				id="48884" 
+				name="2014考研冲刺攻略" ord="letter" seq="asc" defaultopen="" playbreak="" op="sc='5';on='17';vm='6'" TM="1382437923" BKID="203243631" search="类型:教程;产地:中国大陆;首字母:K;时长:30分钟以内,30分钟-60分钟;"
+				 TP="g" col="0" pluson="0" letter="数字"  tags="国语" enableSearch2="1" image="2013-10/203243631-1072-2013-10-22-17-55-23.jpg" />
+</Subs>

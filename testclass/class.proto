@@ -1,0 +1,97 @@
+package listdata;
+
+message Sub {
+    required int32  id      = 1;
+    optional string bigtvg  = 2;
+    optional string name    = 3;
+
+    enum OrderType    {
+        LETTER  = 0;
+        NUM     = 1;
+        ONLINE  = 2;
+    }
+
+    enum SeqType    {
+        DESC    = 0;
+        ASC     = 1;
+    }
+
+    optional OrderType  ord         = 4;
+    optional SeqType    seq         = 5;
+    optional bool       defaultopen = 6;
+    optional string     playbreak   = 7;
+    optional string     op          = 8;
+    optional string     TM          = 9;
+    optional string     BKID        = 10;
+    optional string     search      = 11;
+    optional string     TP          = 12;
+    optional string     col         = 13;
+    optional string     pluson      = 14;
+    optional string     letter      = 15;
+    optional string     tags        = 16;
+    optional bool       isSeries    = 17;
+    optional bool       enableSearch2   = 18;
+    optional string     image       = 19;
+    optional string     fotm        = 20;
+}
+
+message ID {
+    optional int32      ID          = 1;
+    optional string     GID         = 2;
+    optional string     AID         = 3;
+    optional string     BKID        = 4;
+    optional string     BKNAME      = 5;
+    optional string     TM          = 6;
+    optional string     VM          = 7;
+    optional string     DL          = 8;
+    optional string     TP          = 9;
+    optional string     search      = 10;
+    optional string     fid         = 11;
+    optional string     sid         = 12;
+    optional string     image       = 13;
+    optional string     gens        = 14;
+}
+
+message URL {
+    optional string     fmt         = 1;
+    optional string     GID         = 2;
+    optional string     Bit         = 3;
+    optional string     Fotm        = 4;
+    optional string     defaultplay = 5;
+    optional string     fid         = 6;
+    optional string     content     = 7;    // URL节点的文本内容，改名叫content
+}
+message URLS {
+    repeated URL        url         = 1;
+}
+
+message Media {
+    optional string     Bit         = 1;
+    optional string     CT          = 2;
+}
+
+message Pro {
+    optional string     DisLang4    = 1;
+    optional string     Vip         = 2;
+    optional string     Vlook       = 3;
+    optional string     Vopt        = 4;
+    optional string     Popt        = 5;
+    optional string     Vlevel      = 6;
+}
+
+message Ch {
+    optional string     ON          = 1;
+    repeated ID         id          = 2;
+    optional string     Name        = 3;
+    optional string     URL         = 4;
+    repeated URLS       urls        = 5;
+    repeated Media      media       = 6;
+    repeated Pro        pro         = 7;
+    optional string     WebURL      = 8;
+}
+
+message Subs {
+    optional int32      TM          = 1;
+    repeated Sub        sub         = 2;
+    repeated Ch         ch          = 3;
+}

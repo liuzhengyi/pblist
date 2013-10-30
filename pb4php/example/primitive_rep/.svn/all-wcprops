@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/30/trunk/example/primitive_rep
+END
+primitive.proto
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/example/primitive_rep/primitive.proto
+END
+protoc.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/example/primitive_rep/protoc.php
+END
+primitive.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/30/trunk/example/primitive_rep/primitive.php
+END
+pb_proto_primitive.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/30/trunk/example/primitive_rep/pb_proto_primitive.php
+END

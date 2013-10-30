@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/41/trunk/example/testcases/test
+END
+protoc.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/41/trunk/example/testcases/test/protoc.php
+END
+userdata_create.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/38/trunk/example/testcases/test/userdata_create.php
+END
+pb_proto_userdata.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/41/trunk/example/testcases/test/pb_proto_userdata.php
+END
+userdata.proto.bak
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/38/trunk/example/testcases/test/userdata.proto.bak
+END
+userdata.pb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/38/trunk/example/testcases/test/userdata.pb
+END
+userdata.proto
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/38/trunk/example/testcases/test/userdata.proto
+END

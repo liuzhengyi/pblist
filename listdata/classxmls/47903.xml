@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='GB18030'?>
+<Subs TM='1382773583'>
+<Sub 
+				id="48119" 
+				name="乔布斯传奇" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='35';on='188';vm='8.5'" TM="1368526400" BKID="202696659" search="首字母:H,J,P,Q,S,Y,数字;时长:30分钟以内,30分钟-60分钟,60分钟-90分钟;"
+				 TP="g" col="0" pluson="0" letter="Q"  tags="国语流畅TV版,外语DVD版,外语TV版,外语流畅TV版,粤语流畅TV版" enableSearch2="1" image="2011-11/202696659-121-2011-11-07-14-59-36.jpg" />
+<Sub 
+				id="48107" 
+				name="牛男科技" ord="time" seq="desc" defaultopen="" playbreak="" op="sc='981';on='624';vm='8'" TM="1382720433" BKID="203232703" search="首字母:A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,数字;时长:120分钟以上;"
+				 TP="g" col="0" pluson="0" letter="N"  enableSearch2="1" image="2013-06/203232703-1072-2013-06-20-11-21-36.jpg" />
+<Sub 
+				id="48185" 
+				name="前沿科学" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='131';on='355'" TM="1382616461" BKID="203232703" search="首字母:A,B,C,D,F,G,H,J,K,L,M,N,P,Q,R,S,T,W,X,Y,Z,数字;时长:30分钟以内,120分钟以上;"
+				 TP="g" col="0" pluson="0" letter="Q"  tags="国语" enableSearch2="1" image="2013-06/203232703-1072-2013-06-20-11-21-36.jpg" />
+<Sub 
+				id="47912" 
+				name="数字天地" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='177';on='517';vm='8'" TM="1382659050" BKID="203239424" search="首字母:B,C,D,G,H,I,J,K,L,M,N,O,P,Q,S,T,V,W,X,Y,Z,数字;时长:30分钟以内,30分钟-60分钟,120分钟以上;"
+				 TP="g" col="0" pluson="113" letter="S"  tags="国语" isSeries="1" enableSearch2="1" image="2013-09/203239424-873-2013-09-17-14-42-06.jpg" fotm="2" />
+<Sub 
+				id="47915" 
+				name="十万个冷知识" ord="time" seq="desc" defaultopen="" playbreak="" op="sc='88';on='24';vm='8'" TM="1382659050" BKID="203232703" search="首字母:A,B,C,D,G,J,K,L,N,P,R,S,T,W,X,Y,Z,数字;时长:30分钟以内,120分钟以上;"
+				 TP="g" col="0" pluson="0" letter="S"  tags="国语" isSeries="1" enableSearch2="1" image="2013-06/203232703-1072-2013-06-20-11-21-36.jpg" fotm="2" />
+<Sub 
+				id="47913" 
+				name="科技奇闻异事" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='148';on='489';vm='8'" TM="1382659645" BKID="203232703" search="首字母:A,B,C,D,E,F,G,H,I,J,K,L,M,N,P,Q,R,S,T,W,X,Y,Z,数字;时长:30分钟以内,30分钟-60分钟,120分钟以上;"
+				 TP="g" col="0" pluson="149" letter="K"  tags="DVD版,TV版" isSeries="1" enableSearch2="1" image="2013-06/203232703-1072-2013-06-20-11-21-36.jpg" fotm="2" />
+<Sub 
+				id="47984" 
+				name="诺基亚经典回顾" ord="time" seq="desc" defaultopen="" playbreak="" op="sc='19';on='94'" TM="1378788365" BKID="203239597" search="首字母:N;时长:30分钟以内;"
+				 TP="g" col="0" pluson="99" letter="N"  tags="国语,外语,粤语" enableSearch2="1" image="2013-09/203239597-873-2013-09-18-15-32-06.jpg" />
+<Sub 
+				id="48006" 
+				name="苹果历年发布会" ord="time" seq="desc" defaultopen="" playbreak="" op="sc='29';on='164';vm='6'" TM="1378742293" BKID="203240069" search="首字母:P;时长:30分钟-60分钟,60分钟-90分钟,90分钟-120分钟,120分钟以上;"
+				 TP="g" col="0" pluson="0" letter="P"  tags="外语" enableSearch2="1" image="2013-09/203240069-873-2013-09-09-19-12-32.jpg" />
+<Sub 
+				id="47911" 
+				name="电器评测" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='81';on='331';vm='6'" TM="1382659645" BKID="203239485" search="首字母:A,B,C,D,F,G,H,K,L,M,N,P,Q,R,S,T,U,V,W,X,Z,数字;时长:30分钟以内,120分钟以上;"
+				 TP="g" col="0" pluson="109" letter="D"  tags="国语" isSeries="1" enableSearch2="1" image="2013-09/203239485-873-2013-09-17-14-36-56.jpg" fotm="2" />
+<Sub 
+				id="47914" 
+				name="电玩天堂" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='99';on='613';vm='6'" TM="1382593524" BKID="203239490" search="首字母:A,C,D,F,H,J,K,L,M,P,R,S,T,W,X,Y,Z,数字;时长:30分钟以内,30分钟-60分钟,120分钟以上;"
+				 TP="g" col="0" pluson="0" letter="D"  tags="国语" isSeries="1" enableSearch2="1" image="2013-09/203239490-873-2013-09-18-15-48-37.jpg" fotm="2" />
+<Sub 
+				id="48084" 
+				name="敖厂长《囧的呼唤》" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='83';on='432';vm='7.1'" TM="1378909141" BKID="203239597" search="首字母:A;时长:30分钟以内,30分钟-60分钟;"
+				 TP="g" col="0" pluson="0" letter="A"  tags="国语" isSeries="1" enableSearch2="1" image="2013-09/203239597-873-2013-09-18-15-32-06.jpg" fotm="2" />
+<Sub 
+				id="47909" 
+				name="科技新闻大爆炸" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='90';on='1640';vm='6.7'" TM="1382751945" BKID="203237202" search="首字母:D,H,K,M,Q,R,T,Z,数字;时长:30分钟以内,120分钟以上;"
+				 TP="g" col="0" pluson="0" letter="K"  tags="DVD版,TV版" isSeries="1" enableSearch2="1" image="2013-09/203237202-873-2013-09-17-14-34-07.jpg" fotm="2" />
+<Sub 
+				id="48142" 
+				name="科技神吐槽" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='14';on='68'" TM="1382084416" BKID="203239597" search="首字母:A,C,J,K,P,S,T,W;时长:30分钟以内;"
+				 TP="g" col="0" pluson="565" letter="K"  tags="国语" enableSearch2="1" image="2013-09/203239597-873-2013-09-18-15-32-06.jpg" />
+<Sub 
+				id="47916" 
+				name="APP时代" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='36';on='156';vm='7.1'" TM="1382602083" BKID="203239597" search="首字母:A,C,D,E,F,G,I,J,L,M,Q,S,T,W,Y;时长:30分钟以内,120分钟以上;"
+				 TP="g" col="0" pluson="278" letter="A"  tags="国语" isSeries="1" enableSearch2="1" image="2013-09/203239597-873-2013-09-18-15-32-06.jpg" fotm="2" />
+<Sub 
+				id="48233" 
+				name="东京电玩展2013" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='25';on='122';vm='6'" TM="1379933130" BKID="203239490" search="首字母:A,C,D,F,G,H,K,L,P,S,T,X,Z;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="D"  tags="国语" enableSearch2="1" image="2013-09/203239490-873-2013-09-18-15-48-37.jpg" />
+<Sub 
+				id="48544" 
+				name="苹果新iPad发布" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='23';on='141'" TM="1382518099" BKID="203242429" search="首字母:I,K,M,P,S,T,W,X,数字;时长:30分钟以内,120分钟以上;"
+				 TP="g" col="0" pluson="0" letter="P"  tags="DVD版,TV版" enableSearch2="1" image="2013-10/203242429-873-2013-10-10-11-58-49.jpg" />
+<Sub 
+				id="48728" 
+				name="虚拟现实设备" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='11';on='49';vm='6'" TM="1381828782" BKID="203242915" search="首字母:D,H,L,M,O,S,Y,Z,数字;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="X"  tags="国语" enableSearch2="1" image="2013-10/203242915-873-2013-10-15-15-42-34.jpg" />
+<Sub 
+				id="48744" 
+				name="人文科学" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='8';on='39';vm='6'" TM="1382419960" BKID="203243266" search="首字母:C,J,M,R,T,Y,Z;时长:30分钟以内,30分钟-60分钟,90分钟-120分钟;"
+				 TP="g" col="0" pluson="582" letter="R"  tags="国语" isSeries="1" enableSearch2="1" image="2013-10/203243266-873-2013-10-18-11-32-48.jpg" fotm="2" />
+<Sub 
+				id="48895" 
+				name="俄式军火秀" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='71';on='365';vm='6'" TM="1382445918" BKID="203243653" search="首字母:A,B,C,D,E,F,G,H,J,L,M,Q,S,T,U,W,X,Y,Z,数字;时长:30分钟以内;"
+				 TP="g" col="0" pluson="0" letter="E"  tags="国语" isSeries="1" enableSearch2="1" image="2013-10/203243653-873-2013-10-22-20-17-14.jpg" fotm="2" />
+<Sub 
+				id="47944" 
+				name="91手机视频" ord="online" seq="asc" defaultopen="" playbreak="" op="sc='2';vm='8'" TM="1382527864" BKID="203232703" search="首字母:I,R;时长:120分钟以上;"
+				 TP="g" col="0" pluson="7" letter="数字"  enableSearch2="1" image="2013-06/203232703-1072-2013-06-20-11-21-36.jpg" />
+</Subs>

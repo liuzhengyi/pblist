@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='GB18030'?>
+<Subs TM='1382773950'>
+<Sub 
+				id="48133" 
+				name="单片收费" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='506';on='36'" TM="1382611554" BKID="473360" search="类型:爱情,动画,动作,犯罪,纪录片,警匪,剧情,科幻,恐怖,冒险,西部,喜剧,悬疑,战争;产地:德国,法国,韩国,加拿大,美国,日本,泰国,意大利,英国,中国大陆,中国台湾,中国香港;年份:2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2001,2000;首字母:A,B,C,D,E,F,G,H,J,K,L,M,N,P,Q,R,S,T,W,X,Y,Z;时长:30分钟-60分钟,60分钟-90分钟,90分钟-120分钟,120分钟以上;"
+				 TP="c" col="0" pluson="0" letter="D"  tags="国语DVD版,国语超清DVD版,国语高清DVD版,国语流畅TV版,国语全高清DVD版,外语DVD版,外语TV版,外语超清DVD版,外语超清TV版,外语高清DVD版,外语高清TV版,外语流畅DVD版,外语流畅TV版,外语全高清DVD版,外语全高清TV版,粤语DVD版,粤语超清DVD版,粤语高清DVD版,粤语全高清DVD版" enableSearch2="1" image="2008-12/473360-61-2008-12-25 14-06-30.jpg" />
+<Sub bigtvg="/36709_36847.html" 
+				id="36847" 
+				name="特惠包月" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='2';vm='8.4'" TM="1370686282" BKID="77631" search="类型:爱情,剧情,喜剧;产地:美国;年份:2004;首字母:J,Y;时长:90分钟-120分钟;"
+				 TP="c" col="0" pluson="0" letter="T"  tags="外语" enableSearch2="1" image="2007-04/0077631-61-2007-04-13 03-35-47.jpg" />
+<Sub bigtvg="/36709_36846.html" 
+				id="36846" 
+				name="VIP专享" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='4'" TM="1380552357" BKID="203237555" search="类型:动画,犯罪,剧情,冒险;产地:美国,中国大陆,中国香港;年份:2012;首字母:A,H,J,S;时长:90分钟-120分钟,120分钟以上;"
+				 TP="c" col="0" pluson="0" letter="V"  tags="国语,国语超清,国语高清,国语全高清,外语,外语高清" enableSearch2="1" image="2013-08/203237555-61-2013-08-12-15-39-17.jpg" />
+<Sub bigtvg="/36709_36849.html" 
+				id="36849" 
+				name="最新更新" ord="online" seq="desc" defaultopen="" playbreak="" op="sc='4'" TM="1380552357" BKID="203237555" search="类型:动画,犯罪,剧情,冒险;产地:美国,中国大陆,中国香港;年份:2012;首字母:A,H,J,S;时长:90分钟-120分钟,120分钟以上;"
+				 TP="c" col="0" pluson="0" letter="Z"  tags="国语,国语超清,国语高清,国语全高清,外语,外语高清" enableSearch2="1" image="2013-08/203237555-61-2013-08-12-15-39-17.jpg" />
+</Subs>
